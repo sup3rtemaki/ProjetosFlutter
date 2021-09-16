@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "921546355153",
+    "firebase_url": "https://lojaflutter-c4f34.firebaseio.com",
+    "project_id": "lojaflutter-c4f34",
+    "storage_bucket": "lojaflutter-c4f34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921546355153:android:d005b45289576b39f5b0f0",
+        "android_client_info": {
+          "package_name": "br.com.celso.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921546355153-il2e71qdjpuqi1ldfj17d4e2indqj542.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdw62Py-yiFN9HmGU8SpZsZ4bHbE9udB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921546355153-il2e71qdjpuqi1ldfj17d4e2indqj542.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
